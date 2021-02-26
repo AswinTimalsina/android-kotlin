@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_size">20sp</dimen>
+    <dimen name="padding_top">8dp</dimen>
+    <dimen name="margin_top">16dp</dimen>
+    <dimen name="layout_padding">18dp</dimen>
+    <dimen name="spacing_news">1500dp</dimen>
+</resources>
