@@ -7,4 +7,6 @@
     <string name="box_five">Box Five</string>
     <string name="lets_play">Lets play with the box</string>
     <string name="hola">Hola</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
